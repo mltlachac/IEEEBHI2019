@@ -9,8 +9,11 @@ This repository contains 5 Jupyter Notebooks:
 4. BoxPlotsForIEEEBHI2019.ipynb creates boxplots as seen in the paper for each method from the outputs of the prior Jupyter Notebook.
 5. PlotsForIEEEBHI2019.ipynb creates the other results based plots seen in the paper. 
 
+This repository contains two csv files:
+1. pDF.csv contains the text feature dataset.
+2. phq.csv contains the PHQ-9 score labels.
 
-Citation:
+If you use either the code or the dataset, cite:
 
 M. Tlachac, E. Toto and E. Rundensteiner, "You're Making Me Depressed: Leveraging Texts from Contact Subsets to Predict Depression," 2019 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), Chicago, IL, USA, 2019, pp. 1-4. doi: 10.1109/BHI.2019.8834481
 
