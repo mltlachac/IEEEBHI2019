@@ -18,7 +18,7 @@ If you use either the code or the data, cite:
 M. Tlachac, E. Toto and E. Rundensteiner, "You're Making Me Depressed: Leveraging Texts from Contact Subsets to Predict Depression," 2019 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), Chicago, IL, USA, 2019, pp. 1-4. doi: 10.1109/BHI.2019.8834481
 
 ```
-@INPROCEEDINGS{Depressed,
+@INPROCEEDINGS{TlachacDepressed2019,
 author={M. {Tlachac} and E. {Toto} and E. {Rundensteiner}},
 booktitle={2019 IEEE EMBS International Conference on Biomedical Health Informatics (BHI)},
 title={You're Making Me Depressed: Leveraging Texts from Contact Subsets to Predict Depression},
