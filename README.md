@@ -1,6 +1,6 @@
 # IEEEBHI2019
 Materials for paper titled 'You're Making Me Depressed: Leveraging Text From Contact Subsets to Predict Depression'
-(https://ieeexplore.ieee.org/document/8834481)
+(https://ieeexplore.ieee.org/document/8834481).
 
 This repository contains 5 Jupyter Notebooks:
 1. FeatureEngineeringForIEEEBHI2019.ipynb contains the code that takes original text and extracts Part of Speech and sentiment features for each participant-contact combination. 
@@ -12,6 +12,8 @@ This repository contains 5 Jupyter Notebooks:
 This repository contains two csv files:
 1. pDF.csv contains the text feature dataset.
 2. phq.csv contains the PHQ-9 score labels.
+
+See repository https://github.com/mltlachac/IEEEjBHI2020 for information about sent text message and tweet data.
 
 If you use either the code or the data, cite:
 
