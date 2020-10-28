@@ -13,7 +13,7 @@ This repository contains two csv files:
 1. pDF.csv contains the text feature dataset.
 2. phq.csv contains the PHQ-9 score labels.
 
-See repository https://github.com/mltlachac/IEEEjBHI2020 for information about sent text message and tweet data.  For more information about this research, visit https://emutivo.wpi.edu/.
+See repository https://github.com/mltlachac/IEEEjBHI2020 for information about sent text message and tweet data.  More information about our depression screening research is available at https://emutivo.wpi.edu/
 
 If you use either the code or the data, cite:
 
